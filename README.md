@@ -1,2 +1,6 @@
 # design-patterns
-record design-patterns code
+- 文章
+	- [singleton单例模式]()
+
+- 目录
+	- [singleton单例模式]()
