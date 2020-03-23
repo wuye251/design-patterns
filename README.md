@@ -11,6 +11,6 @@
 	- 基本原则
 		- [singleResponsibilityPrinciple单一职责原则](https://github.com/wuye251/design-patterns/tree/master/singleResponsibilityPrinciple)
 		- [Open and closed principle开放封闭原则](https://github.com/wuye251/design-patterns/tree/master/openAndClosePrinciple)
-		- [simpleFactory简单工厂模式](ttps://github.com/wuye251/design-patterns/tree/master/simpleFactory)
+		- [simpleFactory简单工厂模式](https://github.com/wuye251/design-patterns/tree/master/simpleFactory)
 	- 模式
 		- [singleton单例模式](https://github.com/wuye251/design-patterns/tree/master/singleton)
